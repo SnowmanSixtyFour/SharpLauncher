@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Sharp Launcher
+ * 
+ * An Open-Source Launcher by Snowman64
+ * Feel free to use. Credit is not required
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -28,6 +35,14 @@ namespace SharpLauncher
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            // Initialize Objects
+            Button launchButton = new Button();
+
+            // Set Objects
+            launchButton.Text = "Launch";
+
+            // Draw Objects
+            this.Controls.Add(launchButton);
         }
     }
 }
