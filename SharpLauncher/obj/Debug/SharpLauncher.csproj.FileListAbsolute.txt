@@ -1,0 +1,10 @@
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\bin\Debug\SharpLauncher.exe.config
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\bin\Debug\SharpLauncher.exe
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\bin\Debug\SharpLauncher.pdb
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.csproj.AssemblyReference.cache
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.Form1.resources
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.Properties.Resources.resources
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.csproj.GenerateResource.cache
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.csproj.CoreCompileInputs.cache
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.exe
+C:\Users\CJMT\Documents\GitHub\SharpLauncher\SharpLauncher\SharpLauncher\obj\Debug\SharpLauncher.pdb
