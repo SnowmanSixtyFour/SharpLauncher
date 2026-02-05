@@ -20,6 +20,8 @@ namespace SharpLauncher
 {
     public partial class MainForm : Form
     {
+        int buttonPadding = 20;
+
         public MainForm()
         {
             InitializeComponent();
@@ -40,6 +42,9 @@ namespace SharpLauncher
 
             // Set Objects
             launchButton.Text = "Launch";
+            launchButton.Size = new Size(80, 20);
+            launchButton.Location = new Point((Global.windowWidth - launchButton.Width) - buttonPadding, (Global.windowHeight - launchButton.Height * 2) - buttonPadding);
+            launchButton.Anchor = AnchorStyles.Right & AnchorStyles.Bottom;
 
             // Draw Objects
             this.Controls.Add(launchButton);
