@@ -19,6 +19,11 @@ namespace SharpLauncher
 
             // Set Form
             this.Text = Global.windowName;
+
+            this.Width = Global.windowWidth;
+            this.Height = Global.windowHeight;
+
+            if (Global.centerOnStart) this.StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void Form1_Load(object sender, EventArgs e)
