@@ -7,14 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using SharpLauncher.Source;
 
 namespace SharpLauncher
 {
-    public partial class Form1 : Form
+    public partial class MainForm : Form
     {
-        public Form1()
+        public MainForm()
         {
             InitializeComponent();
+
+            // Set Form
+            this.Text = Global.windowName;
         }
 
         private void Form1_Load(object sender, EventArgs e)
